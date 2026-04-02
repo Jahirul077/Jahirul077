@@ -63,7 +63,7 @@ It comes pre-configured with a clean folder structure, reusable patterns, and es
 🔹 Fast setup for React and Next.js projects  
 🔹 Developer-friendly structure  
 🔹 Ideal for building modern, performant web applications  
-🔹 Live demo: https://blitzstack.netlify.app/
+🔹 Live demo: https://blitzstack.vercel.app
 
 If you're looking for a clean and efficient starting point for your next project, BlitzStack gives you everything you need to get moving right away.
 
