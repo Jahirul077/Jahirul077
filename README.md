@@ -153,10 +153,10 @@ Created responsive layouts and custom components using Next.js and Tailwind CSS.
 
 <div align="center">
   <a href="https://github.com/Jahirul077">
-    <img height="180em"  width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jahirul077&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img height="180em"  width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jahirul077&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
  <a href="https://github.com/Jahirul077">
-    <img height="180em"  width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jahirul077&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Jahirul077's GitHub Stats" />
+    <img height="180em"  width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jahirul077&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Jahirul077's GitHub Stats" />
   </a>
 </div>
 
