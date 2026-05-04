@@ -142,21 +142,43 @@ Created responsive layouts and custom components using Next.js and Tailwind CSS.
 
 ###
 
+<div align="center" >
+  <a href="https://github.com/Jahirul077">
+    <img src="https://streak-stats.demolab.com/?user=Jahirul077&theme=radical&border_radius=10&cache_seconds=86400" alt="Jahirul077's GitHub Streak" width="49%" />
+ </a>
+</div>
+ 
+
+###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=johirul07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johirul07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/Jahirul077">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jahirul077&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+ <a href="https://github.com/Jahirul077">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jahirul077&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Jahirul077's GitHub Stats" />
+  </a>
+</div>
+
+###
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Jahirul077&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jahirul Islam's GitHub Trophies" />
+</p>
+
+###
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=johirul07&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 </div>
 
 ###
 
-<div align="center">
-  <img height="201" src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"  />
-</div>
 
-###
