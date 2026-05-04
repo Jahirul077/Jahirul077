@@ -140,7 +140,7 @@ Created responsive layouts and custom components using Next.js and Tailwind CSS.
 
 <h2 align="left">🚀 Github Stats</h2>
 
-##
+###
 
 <div align="center" >
   <a href="https://github.com/Jahirul077">
@@ -148,8 +148,7 @@ Created responsive layouts and custom components using Next.js and Tailwind CSS.
  </a>
 </div>
  
-
-#
+###
 
 <div align="center">
   <a href="https://github.com/Jahirul077">
@@ -160,13 +159,13 @@ Created responsive layouts and custom components using Next.js and Tailwind CSS.
   </a>
 </div>
 
-#
+###
 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Jahirul077&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jahirul Islam's GitHub Trophies" />
 </p>
 
-#
+##
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
